@@ -8,6 +8,9 @@ PHP 5.4.0 est également requis minimalement pour que le framework Yii2 fonction
 
 ### Installation
 
+#### Yii2
+Pour installer Yii2, une fois que vous avez cloner le repository sur votre système, vous devez utiliser __Composer__ pour terminer l'installation du framework. À partir du root de `client`, faire la commande `composer install` et même chose à partir du root de `rest`. Assurez-vous que le user www-data ait accès aux fichiers.
+
 #### Apache config
 Les configs apache se trouvent dans le fichier `conf/apache2/seedbox.conf`. Il est important de remplacer les placeholders dans le fichier par les bonnes informations selon l'emplacement des fichiers du projet sur votre serveur. Vous trouverez les fichiers nécessaires pour les certificats SSL dans les dossiers `conf/ssl/mgmtservers` et `conf/ssl/zoneadmin`. Les fichiers ca.pem dans ces dossiers vous serviront pour autoriser l'_authority_ qui a délivré ces certificats (voir plus loin). 
 
