@@ -36,4 +36,5 @@ Il reste maintenant à faire reconnaitre les autorités qui ont signé les deux 
 * __N'hésitez pas à me donner vos commentaires ou à m'écrire pour me poser des questions soit au niveau du code, du fonctionnement de l'application ou de l'installation et de la configuration.__
 
 __Merci!__
+
 __Fred__
